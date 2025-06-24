@@ -54,6 +54,7 @@ Deberías ver los contenedores:
 Una vez que todos los servicios estén corriendo:
 
 - **Frontend**: http://localhost
+  - Usuario administrador: admin@farmacia.com / Admin123!
 - **Backend API**: http://localhost:3000
 - **Documentación API**: http://localhost:3000/api-docs
 - **Estado del servidor**: http://localhost:3000/api/status
